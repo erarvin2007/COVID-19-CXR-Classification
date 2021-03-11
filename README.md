@@ -11,6 +11,8 @@ Support: erarvin2007@gmail.com
 ### Dataset
 This repository uses the COVIDx Binary dataset which are generated using scripts that can be accessed on [this](https://github.com/lindawangg/COVID-Net) repository. 
 
+#### COVIDx Binary data distribution
+
 |  Type | COVID-19 Negative | COVID-19 Positive | Total |
 |:-----:|:------:|:---------:|:--------:|
 | train |  13794  |    1670   |    15464   |
